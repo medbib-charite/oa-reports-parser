@@ -1,0 +1,10 @@
+# {'BMJ': None, 'T&F': None, 'ACS': None, 'hogrefe': 6, 'CUP': None, 'RUP': 4, 'IOP': 8, 'SAGE': None}
+
+title = "Configuration"
+
+[skiprows]
+Mythos = 3
+Wonka = 4
+
+[skipfooter]
+Wonka = 1

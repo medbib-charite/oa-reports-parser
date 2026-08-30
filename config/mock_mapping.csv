@@ -1,0 +1,19 @@
+PuLi;Becher Universitäts Presse;Chemistry Publications Group;EMJ;Hofgraf;Laufer;Magpie;Mythos;Plumper&Castle;Wonka
+DOI;DOI;doi;Manuscript DOI;DOI;doi;## doi - aber als Link;DOI;DOI;DOI
+CorresAuthor;## First Author First Name + First Author Last Name;first author;## Primary Author First Name + [Primary Author Middle Name + ] Primary Author Last Name;Corresponding Author;corresponding author name;Corresponding author;Corresponding Author;Author Name;Responsible Corresponding author
+CorresAuthor ORCID;First Author ORCID;first author orcid;ORCID;;ORCID;Author ORCID-iD;CA ORCiD;Author Orcid;Responsible Corresponding author ORCiD
+CorresAuthor E-Mail;First Author Email;first author email;Primary Author Email Address;;;;CA eMail;Author Email;Responsible Corresponding author email
+Authors;Authors;authors;All Authors;;contributing authors;;;;
+Artikeltitel;Title;title;Manuscript Name;Artikel;article title;Article title;Article Title;Title;Article Title
+Journal;Journal Title;journal;Publication Name;Titel;journal title;Journal;Journal Title;Journal Title;Journal
+ISSN;ISSN;issn;ISSN;;ISSN;Journal ISSN;;ISSN;Journal Print ISSN
+E-ISSN;eISSN;eissn;;;eISSN;;EISSN;Online ISSN;Journal Electronic ISSN
+OA-Status;Open Access Status;oa status;Open Access;;journal publishing model;Journal type;Journal Type;Type;Journal Type
+CC-Lizenz;Creative Commons License Type;license;Creative Commons License Type;;Licence type(s);User license;License Choice (inc Version);License;License Type
+Submission Date;;submission date;;;submission date;Article submitted on;;;Request Date
+Acceptance Date;;acceptance date;;;acceptance date;Article accepted on;;;Article Accepted Date
+Approval Date;;approval date;;;approval date;Magpie Dashboard decision date;;;Request approved date
+Published Online Date;Date Published Online;published date;Publication Date;Datum;Available Online Date;;OA Published Date;;EV Published Date
+Manuscript ID;;manuscript id;Manuscript ID;;manuscript id;PII;;;Manuscript ID
+APC;--> 1234;apc;APC;;Total APC;List price;;;Amount Charged
+Verlag;Publisher;publisher;;;;;;;
