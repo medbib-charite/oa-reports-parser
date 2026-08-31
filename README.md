@@ -8,7 +8,7 @@ Um das Skript besser testen zu können, stellen wir neben dem Sourcecode auch so
 
 Entwickelt wurde das Skript, um die Dashboard-Reports der drei DEAL-Verlage (Elsevier, Springer Nature, Wiley) in das von der Charité gewünschte Format zum Publikationsmonitoring zu bringen. Das Skript überträgt die Inhalte einzelner Excel-Dateien, die man als Report aus den DEAL-Dashboards ziehen kann, in das gewünschte Schema zum Publikationsmonitoring.
 
-Das gewünschte Zielschema wird in der Datei `config/mock_mappin.csv` festgelegt. Spalten, die keine Entsprechung in dem Dashboard-Report haben, können leer gelassen werden. Felder, die mit "#" beginnen, werden ignoriert. Einträge, die mit "-->" beginnen, werden als Default-Werte übernommen. In die Spalte _PuLi_ wird das Zielformat geschrieben; die anderen Spalten sind nach den Verlagen benannt und werden ebenfalls genutzt, um im Skript den Verlag zu identifizieren (dabei werden aus dem Dateinamen "-" in Leerzeichen umgewandelt). 
+Das gewünschte Zielschema wird in der Datei `config/mock_mapping.csv` festgelegt. Spalten, die keine Entsprechung in dem Dashboard-Report haben, können leer gelassen werden. Felder, die mit "#" beginnen, werden ignoriert. Einträge, die mit "-->" beginnen, werden als Default-Werte übernommen. In die Spalte _PuLi_ wird das Zielformat geschrieben; die anderen Spalten sind nach den Verlagen benannt und werden ebenfalls genutzt, um im Skript den Verlag zu identifizieren (dabei werden aus dem Dateinamen "-" in Leerzeichen umgewandelt). 
 
 ## dare2pmt.py: dashboard reports to publication management table
 
